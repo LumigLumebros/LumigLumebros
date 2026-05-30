@@ -25,9 +25,9 @@
 ## Proyectos
 
 <!-- Esta sección está reservada para los enlaces a tus repositorios -->
-* [Nombre del proyecto 1]([enlace_al_repositorio_1])
-* [Nombre del proyecto 2]([enlace_al_repositorio_2])
-* [Nombre del proyecto 3]([enlace_al_repositorio_3])
+* [Solución con python]([enlace_al_repositorio_1])
+* [Analisis y metricas de negocios]([enlace_al_repositorio_2])
+* [Automatización de reportes]([enlace_al_repositorio_3])
 
 ---
 
