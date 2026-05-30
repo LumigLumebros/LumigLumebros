@@ -1,6 +1,6 @@
 # Hola, soy Miguel Moreno 👋
 
-### 📊 Aspirante a Data Analyst | Futuro Desarrollador de IA
+### 📊 Data Analyst | Futuro Desarrollador de IA
 
 ---
 
