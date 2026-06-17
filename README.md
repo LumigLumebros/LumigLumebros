@@ -25,8 +25,8 @@
 ## Proyectos
 
 <!-- Esta sección está reservada para los enlaces a tus repositorios -->
-* [Solución con python]([enlace_al_repositorio_1])
 * [Analisis y metricas de negocios](https://github.com/LumigLumebros/Analisis-de-Negocios-Sakila)
+* [Solución con python]([enlace_al_repositorio_1])
 * [Automatización de reportes]([enlace_al_repositorio_3])
 
 ---
